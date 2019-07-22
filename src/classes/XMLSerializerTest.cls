@@ -107,7 +107,7 @@ private class XMLSerializerTest {
         }
     }
     
-    public class TestItem extends XMLSerializer.XMLRTaglessValue {
+    public class TestItem extends XMLSerializer.XMLTaglessValue {
         
         public String data;
         
